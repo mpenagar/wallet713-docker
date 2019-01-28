@@ -1,8 +1,8 @@
 # Wallet713 in a Docker Container
 
-## Installation 1 - Build Yourself (RECOMENDED)
+## Installation 1 - Build Yourself (RECOMMENDED)
 
-This is the recomended way. You can see what it is in in the Dockerfile, and
+This is the recommended way. You can see what it is in in the Dockerfile, and
 don't need to trust in me, just wallet713 developers (https://github.com/vault713/wallet713).
 
 Make sure you have docker installed, then, clone this repo. In this repo
