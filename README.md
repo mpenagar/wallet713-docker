@@ -23,7 +23,7 @@ docker run -it -v $(pwd):/root/.wallet713 --rm wallet713
 docker run -it -v %cd%:/root/.wallet713 --rm wallet713
 ```
 
-Tha wallet will use the current directory to store the mainnet/floonet data (main/floo directories).
+The wallet will use the current directory to store the mainnet/floonet data (main/floo directories).
 
 ## Installation 2 - Run from Hub
 This one is fairly straightforward. You're running the image from the automated
@@ -41,4 +41,4 @@ docker run -it -v $(pwd):/root/.wallet713 --rm mpenagar/wallet713
 docker run -it -v %cd%:/root/.wallet713 --rm mpenagar/wallet713
 ```
 
-Tha wallet will use the current directory to store the mainnet/floonet data (main/floo directories).
+The wallet will use the current directory to store the mainnet/floonet data (main/floo directories).
